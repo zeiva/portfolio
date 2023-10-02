@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.82ba7e6a.css","mappings":"AAAA,KACE,cAEF,CAEA,UAHE,wBAOF,CAJA,KACE,sBAAuB,CACvB,iBAEF","sources":["styles.css"],"sourcesContent":["html {\n  font-size: 16px;\n  background-color: #b0c6a9;\n}\n\n.App {\n  font-family: sans-serif;\n  text-align: center;\n  background-color: #b0c6a9;\n}\n"],"names":[],"sourceRoot":""}
